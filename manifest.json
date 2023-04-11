@@ -5,7 +5,7 @@
   "version": "1.0",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "slope.png"
+    "default_icon": "slope-game-character5.png"
   },
   "background": {
     "service_worker": "background.js"
