@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Play",
+  "description": "get to ug202 fast",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "android-chrome-512x512.png"
+  }
+}
